@@ -1,6 +1,6 @@
 # StreamlitApp
 
-This is my first project testing out awesome Streamlit library. Looking forward to put more engaging ML/DL projects out using Streamlit. Feel free to clone this repo if you want to try out.
+This is my first project testing out awesome Streamlit library. Looking forward to put more engaging ML/DL projects out using Streamlit. Feel free to clone this repo if you want to try it out.
 
 ## How to run my Simple Streamlit App:
 First install streamlit from termininal by typing this to terminal:
